@@ -1,0 +1,5 @@
+{
+  "name": "Jira Worklog Scraper",
+  "description": "A parameterized app to extract and visualize Jira worklogs (hours) for specific users and projects.",
+  "requestFramePermissions": []
+}
